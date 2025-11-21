@@ -1,0 +1,2 @@
+71582ba Task 1.1: Fix CheckStyle issues in all Java files
+0018a8c Initial commit
