@@ -1,3 +1,5 @@
+26edfd7 Task 2.4: Split loops and extract getTotalVolumeCredits/getTotalAmount
+7620fba Task 2.3: Remove frmt variable and create usd helper
 5e7cada Task 2.2: Extract volume credits to getVolumeCredits method
 381a769 Task 2.1: Extract switch statement to getAmount method
 d8a2142 Task 1.2: Update log.txt with git log output
