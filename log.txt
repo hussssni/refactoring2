@@ -1,3 +1,4 @@
+381a769 Task 2.1: Extract switch statement to getAmount method
 d8a2142 Task 1.2: Update log.txt with git log output
 71582ba Task 1.1: Fix CheckStyle issues in all Java files
 0018a8c Initial commit
